@@ -1,0 +1,1 @@
+user storyt, funkcionális nem funkcionális követelmények
