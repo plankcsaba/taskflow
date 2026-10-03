@@ -30,5 +30,6 @@ Frontend függőségek telepítése és indítása:cd frontend
     npm install
     npm run dev
 
-Dokumentáció & CsapatA projekt részletes funkcionális és nem funkcionális specifikációit, valamint a Teamwork Agreementet a projekt dokumentációs mappájában találjátok.
+Dokumentáció & Csapat
+A projekt részletes funkcionális és nem funkcionális specifikációit, valamint a Teamwork Agreementet a projekt dokumentációs mappájában találjátok.
 Készítette a Taskflow Csapat.
